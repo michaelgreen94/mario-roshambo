@@ -35,6 +35,7 @@ namespace roshambo
         if (endGame.ToUpper() != "Y")
         {
           playing = false;
+          s.Abort();
         }
 
       }
