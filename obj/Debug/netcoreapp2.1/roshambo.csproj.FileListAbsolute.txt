@@ -1,0 +1,11 @@
+C:\source\codeworks\roshambo\bin\Debug\netcoreapp2.1\roshambo.deps.json
+C:\source\codeworks\roshambo\bin\Debug\netcoreapp2.1\roshambo.runtimeconfig.json
+C:\source\codeworks\roshambo\bin\Debug\netcoreapp2.1\roshambo.runtimeconfig.dev.json
+C:\source\codeworks\roshambo\bin\Debug\netcoreapp2.1\roshambo.dll
+C:\source\codeworks\roshambo\bin\Debug\netcoreapp2.1\roshambo.pdb
+C:\source\codeworks\roshambo\obj\Debug\netcoreapp2.1\roshambo.csprojAssemblyReference.cache
+C:\source\codeworks\roshambo\obj\Debug\netcoreapp2.1\roshambo.csproj.CoreCompileInputs.cache
+C:\source\codeworks\roshambo\obj\Debug\netcoreapp2.1\roshambo.AssemblyInfoInputs.cache
+C:\source\codeworks\roshambo\obj\Debug\netcoreapp2.1\roshambo.AssemblyInfo.cs
+C:\source\codeworks\roshambo\obj\Debug\netcoreapp2.1\roshambo.dll
+C:\source\codeworks\roshambo\obj\Debug\netcoreapp2.1\roshambo.pdb
